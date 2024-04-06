@@ -4,5 +4,5 @@
 
 - npm install
 - Replace .env.template to .env
-- add with credentials
+- add your credentials
 - npm run dev
